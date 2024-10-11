@@ -62,6 +62,11 @@ body {
   width: 350px;
 }
 
+.side-bar-bottom{
+  position:absolute;
+  bottom: 0;
+}
+
 .boards-nav-links-div {
   display: flex;
   flex-direction: column;
